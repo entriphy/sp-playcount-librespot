@@ -1,3 +1,6 @@
+## Deprecation notice
+Deprecated in favor of [sp-playcount](https://github.com/entriphy/sp-playcount).
+
 # sp-playcount-librespot
 `sp-playcount-librespot` is a modification of `librespot-java` that serves as an enhancement of [Spotify-PlayCount](https://github.com/evilarceus/Spotify-PlayCount).
 
